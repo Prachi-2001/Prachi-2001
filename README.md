@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Pachang</h1>
-<h3 align="center">A Passionate Full Stack Development from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <img align="right" height="200px" width="300px" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47l2f2fdur05tsbsk9vj6fmrkxud68ecygx2yd8u5y&rid=giphy.gif&ct=g"/>
 

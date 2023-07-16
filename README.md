@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate for **open source contributions on web development projects**
 
+- 👯 Ask me about **MERN stack, Django :)**
+
 - 📫 How to reach me **prachipachang164@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

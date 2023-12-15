@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate for **Open source contributions and freelancing**
 
-- 👯 Ask me about **MERN stack, Django, CS Core:)**
+- 👯 Ask me about **MERN stack, Django, CS Core :)**
 
 - 📫 How to reach me **prachipachang164@gmail.com**
 

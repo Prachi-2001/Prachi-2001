@@ -3,13 +3,15 @@
 
 <img align="right" height="200px" width="300px" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47l2f2fdur05tsbsk9vj6fmrkxud68ecygx2yd8u5y&rid=giphy.gif&ct=g"/>
 
-- 🌱 I’m currently learning **MERN Stack development and Devops**
+- 🌱 I’m currently learning **Next.js development and Devops**
 
 - 👯 I’m looking to collaborate for **Open source contributions and freelancing**
 
 - 👯 Ask me about **MERN stack, Django, CS Core :)**
 
 - 📫 How to reach me **prachipachang164@gmail.com**
+  
+- 👯 Fun fact never giving up easily! :)
 
 
 <h3 align="left">Connect with me:</h3>
